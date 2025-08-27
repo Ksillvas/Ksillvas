@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Sobre mim  
+## 
 - 👩‍💻 Estudante de **Bacharelado em Tecnologia da Informação - UNIVESP**  
 - 💡 Apaixonada por **tecnologia, inclusão digital e projetos que fazem a diferença**  
 - 🛠️ Atualmente desenvolvendo o projeto: **Conexão Local** 🌍  
@@ -27,14 +27,14 @@
 
 ---
 
-## 🎨 GIF divertido sobre programação
+## 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 </div>
 
 ---
 
-## 📊 Estatísticas  
+##  
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ksillvas&show_icons=true&theme=dracula)  
@@ -44,14 +44,14 @@
 
 ---
 
-## 🌟 Badges Dinâmicas de Produtividade
+## 🌟 
 
 <div align="center">
 
 
 </div>
 
-### 🏆 Nível de GitHub
+### 🏆 
 <div align="center">
 
 ![GitHub Bronze](https://img.shields.io/badge/GitHub-Bronze-bronze?style=for-the-badge)  
@@ -62,14 +62,14 @@
 
 ---
 
-## 🌐 Onde me encontrar  
+## 
 - 💼 [LinkedIn](https://www.linkedin.com/in/camila-silva-a44133249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 📸 [Instagram](https://www.instagram.com/kaahsillvas?igsh=a204a3RhYmE3MWEx)  
 - 📧 **Email:** ksillva304@gmail.com  
 
 ---
 
-## 📈 Contador de visitas
+## 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ksillvas&color=6A5ACD&style=flat-square" alt="Contador de visitas" />
 </div>
