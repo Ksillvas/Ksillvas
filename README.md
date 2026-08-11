@@ -1,79 +1,25 @@
-# 👋 E aí, beleza? Eu sou a **Camila Silva** 🚀  
+## Bem -vindo(a) ao meu perfil Dev 😁
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=30&fontColor=fff)
-
----
-
-## 
-- 👩‍💻 Estudante de **Bacharelado em Tecnologia da Informação - UNIVESP**  
-- 💡 Apaixonada por **tecnologia, inclusão digital e projetos que fazem a diferença**  
-- 🛠️ Atualmente desenvolvendo o projeto: **Conexão Local** 🌍  
-- ☕ Sobrevivo à base de café e boas ideias  
-- 🎶 Código vai melhor com música no fundo  
-
----
-
-## 🚀 Tecnologias que eu uso/brinco
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-
+ <div>
+   <a href="https://github.com/CamilaDev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiladev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiladev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
----
-
-## 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
----
-
-##  
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ksillvas&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksillvas&layout=compact&theme=dracula)
-
+ 
+<br>
+ 
+### Siga minhas redes 👽
+ 
+<div> 
+  <a 
+  <a href="https://instagram.com/@kaahsillvas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: ksillva304@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camilasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
----
-
-## 🌟 
-
-<div align="center">
-
-
-</div>
-
-### 🏆 
-<div align="center">
-
-![GitHub Bronze](https://img.shields.io/badge/GitHub-Bronze-bronze?style=for-the-badge)  
-![GitHub Prata](https://img.shields.io/badge/GitHub-Prata-silver?style=for-the-badge)  
-![GitHub Ouro](https://img.shields.io/badge/GitHub-Ouro-gold?style=for-the-badge)  
-
-</div>
-
----
-
-## 
-- 💼 [LinkedIn](https://www.linkedin.com/in/camila-silva-a44133249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📸 [Instagram](https://www.instagram.com/kaahsillvas?igsh=a204a3RhYmE3MWEx)  
-- 📧 **Email:** ksillva304@gmail.com  
-
----
-
-## 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ksillvas&color=6A5ACD&style=flat-square" alt="Contador de visitas" />
-</div>
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer&fontColor=fff&reversal=true)
