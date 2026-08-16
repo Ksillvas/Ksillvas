@@ -1,24 +1,48 @@
+# Olá, mundo! Eu sou a Camila Silva 👋
 
-<img src="https://raw.githubusercontent.com/Ksillvas/Ksillvas/master/image/computer-illustration.png" alt="" min-width="400px" max-width="400px" width="400px" align="right">
-<img width="439" height="326" alt="17864153367793994259393949462405" src="https://github.com/user-attachments/assets/ead425a6-edf8-41d4-83bc-af2fc0f41e02" />
-
-<p align="left"> 
- Recém formanda em Análise e Desenvolvimento de Sistemas, explorando diversas áreas da tecnologia. Possuo 2 projetos com participação de outros colegas. Fui gerente de Mídias Sociais em uma ONG.
-
-
-<p align="left">
-  ⌨️ Linguagens: HTML,Css,Java.
+<p align="center">
+  <img src="https://vercel.app" alt="Banner Dev" />
 </p>
 
+## 💻 Sobre Mim
+- 🎓 Graduada em **Análise e Desenvolvimento de Sistemas (ADS)**.
+- 🚀 Desenvolvedora focada na criação de sistemas robustos, seguros e escaláveis.
+- 🛠️ Domínio em lógica de programação, arquitetura de software e boas práticas (Clean Code).
+
+## 🛠️ Stack Tecnológica
+
+### Front-End
 <p align="left">
- 💻Entre em contato comigo : ⤵️
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
+    <img src="https://jsdelivr.net" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
+    <img src="https://jsdelivr.net" alt="CSS3" width="45" height="45"/>
+  </a>
 </p>
 
+### Back-End & Frameworks
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <a href="https://oracle.com" target="_blank" rel="noreferrer">
+    <img src="https://jsdelivr.net" alt="Java" width="45" height="45"/>
+  </a>
+  <a href="https://spring.io" target="_blank" rel="noreferrer">
+    <img src="https://jsdelivr.net" alt="Spring Boot" width="45" height="45"/>
+  </a>
 </p>
+
+### Ferramentas & DevOps
+<p align="left">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://jsdelivr.net" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://jsdelivr.net" alt="GitHub" width="45" height="45"/>
+  </a>
+</p>
+
+## 🚀 Projetos em Destaque
+* 📂 **Site Governamental - Instituto de Genética e Erros Inatos do Metabolismo. 
+* 📂 **APP PENHA - Aplicativo para comunidade da Penha com todo os serviços prestados pelo Estado. 
+## 📬 Conecte-se Comigo
+- 📧 ksillva304@gmail.com
