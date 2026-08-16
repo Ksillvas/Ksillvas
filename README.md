@@ -1,48 +1,42 @@
-# Olá, mundo! Eu sou a Camila Silva 👋
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<p align="center">
-  <img src="https://vercel.app" alt="Banner Dev" />
-</p>
+## Olá, sou a Camila. 
 
-## 💻 Sobre Mim
-- 🎓 Graduada em **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 🚀 Desenvolvedora focada na criação de sistemas robustos, seguros e escaláveis.
-- 🛠️ Domínio em lógica de programação, arquitetura de software e boas práticas (Clean Code).
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Formada em ADS 
+- 💼 Em migração e carreira 
+- 🌱 Aprendendo mais sobre Html,Css, Java
 
-## 🛠️ Stack Tecnológica
+## Minhas Skills
 
-### Front-End
-<p align="left">
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="HTML5" width="45" height="45"/>
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="CSS3" width="45" height="45"/>
-  </a>
-</p>
+**Aplicações e dados**
 
-### Back-End & Frameworks
-<p align="left">
-  <a href="https://oracle.com" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="Java" width="45" height="45"/>
-  </a>
-  <a href="https://spring.io" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="Spring Boot" width="45" height="45"/>
-  </a>
-</p>
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-### Ferramentas & DevOps
-<p align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="Git" width="45" height="45"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="GitHub" width="45" height="45"/>
-  </a>
-</p>
 
-## 🚀 Projetos em Destaque
-* 📂 **Site Governamental - Instituto de Genética e Erros Inatos do Metabolismo. 
-* 📂 **APP PENHA - Aplicativo para comunidade da Penha com todo os serviços prestados pelo Estado. 
-## 📬 Conecte-se Comigo
-- 📧 ksillva304@gmail.com
+
+**DevOps**
+
+
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+@kaahsillvas
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
